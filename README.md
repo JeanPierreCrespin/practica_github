@@ -1,4 +1,5 @@
 # practica_github
-josue solis 
-este es el ultimo repositorio
-12
+josue solis
+cristian rivera
+octavio farinia
+
