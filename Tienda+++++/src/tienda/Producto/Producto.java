@@ -10,7 +10,7 @@ package tienda.Producto;
  * @author octav
  */
 
-import tienda.proveedor;
+import tienda.Proveedores;
 
 public class Producto {
     
